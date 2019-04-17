@@ -1,5 +1,4 @@
 <h1>Python</h1>
-<hr>
 This contains solutions for the Python Language challenges I've completed (no particular order).
 <br>
 Examples covered:<br>
