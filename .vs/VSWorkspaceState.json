@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Security"
+    "\\Problem Solving",
+    "\\Problem Solving\\Arrays",
+    "\\Problem Solving\\Constructive Algorithms",
+    "\\Problem Solving\\Greedy",
+    "\\Python\\Basic Data Types",
+    "\\Python\\Built-Ins",
+    "\\Python\\Closures and Decorators",
+    "\\Python\\Collections",
+    "\\Python\\Inroduction"
   ],
-  "SelectedNode": "\\Security\\prng_sequence.java",
+  "SelectedNode": "\\Problem Solving\\Arrays\\ArrayManipulation.py",
   "PreviewInSolutionExplorer": false
 }
