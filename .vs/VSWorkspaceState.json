@@ -2,15 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Problem Solving",
-    "\\Problem Solving\\Arrays",
-    "\\Problem Solving\\Constructive Algorithms",
-    "\\Problem Solving\\Greedy",
-    "\\Python\\Basic Data Types",
-    "\\Python\\Built-Ins",
-    "\\Python\\Closures and Decorators",
-    "\\Python\\Collections",
-    "\\Python\\Inroduction"
+    "\\Problem Solving\\Implementation"
   ],
-  "SelectedNode": "\\Problem Solving\\Arrays\\ArrayManipulation.py",
+  "SelectedNode": "\\Problem Solving\\Implementation\\BreakingTheRecods.py",
   "PreviewInSolutionExplorer": false
 }
